@@ -13,12 +13,12 @@ I am a Technical Communicator based in Seattle, WA. With over 5 years of experie
 ### 🛠️ Developer Onboarding SOP: GitHub Workflows
 * **Description:** A comprehensive, task-oriented standard operating procedure designed to cleanly onboard incoming technical writers onto distributed version control pipelines.
 * **Core Focus:** Docs-as-Code, Information Architecture, Git Version Control protocols.
-* *[Project Document Link Coming Soon]*
+* *[View Portfolio Document](./github-sop/GitHub%20Aid.pdf)*
 
 ### 📊 Enterprise User Guide: SAP ZMR35 Report Configuration
 * **Description:** An end-to-end quick reference manual detailing transactional execution parameters, variant selections, and an exception-handling matrix to reduce processing delays.
 * **Core Focus:** Task-Oriented Structure, Annotated Screen Captures, Data Mapping Tables.
-* *[Project Document Link Coming Soon]*
+* *[View Portfolio Document](./sap-guide/ZMR35%20Guide.pdf)*
 
 ### 📰 Corporate Communications: Employee Spotlight Feature
 * **Description:** An internal journalistic profile exploring community impact and corporate citizenship values, developed in collaboration with cross-functional leadership teams.
